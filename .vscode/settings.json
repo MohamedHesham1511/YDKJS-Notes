@@ -1,0 +1,74 @@
+{
+  "todohighlight.isEnable": true,
+  "todohighlight.isCaseSensitive": true,
+  "todohighlight.keywords": [
+    {
+      "text": "• ",
+      "color": "#8C9EFF",
+      "backgroundColor": "transparent",
+      "isWholeLine": true
+    },
+    {
+      "text": "➜",
+      "color": "#B0BEC5",
+      "backgroundColor": "transparent",
+      "fontWeight": "bold",
+      "isWholeLine": true
+    },
+    {
+      "text": "»",
+      "color": "#FFD86C",
+      "backgroundColor": "transparent",
+      "isWholeLine": true,
+      "fontStyle": "italic"
+    },
+    {
+      "text": " Note: ",
+      "color": "#FFD86C",
+      "border": "1px solid #FFD86C",
+      "borderRadius": "10px",
+      "backgroundColor": "transparent",
+      "fontWeight": "bold",
+      "isWholeLine": false
+    },
+    {
+      "text": "✱",
+      "color": "#E040FB",
+      "backgroundColor": "transparent",
+      "isWholeLine": true,
+      "fontStyle": "italic"
+    },
+    {
+      "text": " Example: ",
+      "color": "#E040FB",
+      "border": "1px solid #E040FB",
+      "borderRadius": "10px",
+      "backgroundColor": "transparent",
+      "fontWeight": "bold",
+      "isWholeLine": false
+    },
+    {
+      "text": " Consider: ",
+      "color": "#E040FB",
+      "border": "1px solid #E040FB",
+      "borderRadius": "10px",
+      "backgroundColor": "transparent",
+      "fontWeight": "bold",
+      "isWholeLine": false
+    },
+    {
+      "text": "-!",
+      "color": "#fa1b49",
+      "backgroundColor": "transparent",
+      "isWholeLine": true
+    },
+    {
+      "text": " warning: ",
+      "color": "#fa1b49",
+      "border": "1px solid #fa1b49",
+      "borderRadius": "10px",
+      "backgroundColor": "transparent",
+      "fontWeight": "bold"
+    }
+  ]
+}
